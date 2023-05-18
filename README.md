@@ -1,17 +1,18 @@
 # Đồ án cuối kỳ môn Khoa học dữ liệu ứng dụng
 
-1. Thông tin thành viên
+## 1. Thông tin thành viên
+
 |MSSV|Họ tên|
 |---|---|
 |19120207|Hồ Hoàng Duy|
 |19120364|Nguyễn Đắc Thắng|
 |19120651|Nguyễn Phạm Hoàng Thái|
 
-3. Thông tin về đồ án
+## 2. Thông tin về đồ án
 
 Trong đồ án này nhóm thực hiện đề tài dự đoán liệu rằng một khách hàng có ngưng sử dụng dịch vụ thẻ tín dụng hay không dựa vào các thông tin cá nhân của khách hàng cũng như thông tin về hoạt động của khách hàng với thẻ tín dụng. Từ đó, nhóm phân tích dữ liệu, tìm ra các đặc trưng quan trọng để đưa vào mô hình phân lớp khách hàng nào sẽ không sử dụng thẻ.
 
-5. Hướng dẫn cách chạy code trong giai đoạn 3
+## 3. Hướng dẫn cách chạy code trong giai đoạn 3
 
 Nhóm thực hiện theo từng file như sau:
 
